@@ -22,9 +22,9 @@
 ```
 ## Link source files accorging to instructions in each README file.
 ```
- # more meta-mm5d91-dts/README
- # more meta-mm5d91-gui/README
- # more meta-mm5d91-module/README
+ # more meta-mm5d91-dts/README.md
+ # more meta-mm5d91-gui/README.md
+ # more meta-mm5d91-module/README.md
 ```
 
 ## source environment and create build folder
