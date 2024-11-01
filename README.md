@@ -47,13 +47,12 @@
 * source file is core-image-base-raspberrypi4-64.rootfs.wic.bz2
 # run image and test app
 * connect ethernet cable
-* connect mm5d91 module as instructed in <
+* connect mm5d91 module as instructed in https://github.com/parcnu/mm5d91-rpi4b-driver/blob/main/README.md
 * insert sd card to repi4b
 * powerup the rpi4b
 * from build computer ssh to rpi
 ```
  # ssh root@192.168.xxx.xxx (check your ip from router)
-```
  # password = rpi4b
  # usertestapp
  # tail -f output.txt
